@@ -166,3 +166,48 @@ button:hover{
     color: black;
     white-space: nowrap;
 }
+.ai{
+    display:flex;
+    justify-content: center;
+    padding: 60px 40px;
+}
+.box{
+    background-color: #0D1B2A;
+    border-radius: 10px;
+    padding: 60px 50px;
+    width: 700px;
+    height: 230px;
+    text-align: center;
+    color: white;
+}
+.early{
+    font-size: 130%;
+}
+.save{
+    font-size: 160%;
+}
+.time{
+    display:grid;
+    grid-template-columns: repeat(3,1fr);
+    left: 48%;
+    font-size: 150%;
+}
+.last{
+    padding: 10px 30px;
+    border-radius: 10px;
+    border: 0;
+    background-color: #1D4ED8;
+    color: white;
+    font-family: 'Inter';
+}
+footer{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+    background-color: #0D1B2A;
+    color: white;
+}
+.right{
+    display: flex;
+    gap: 20px;
+}

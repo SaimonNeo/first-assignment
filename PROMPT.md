@@ -1,0 +1,1 @@
+make something easier,easy to make using basic html and css for that something missing portion given in the picture.No code,generate something visual.
